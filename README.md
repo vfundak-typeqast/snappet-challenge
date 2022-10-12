@@ -21,3 +21,7 @@ There is no time to do everything: make a choice. At Snappet we work with C#, .N
 You are allowed to use frameworks and libraries. You may convert the data into another format or import it into databases. Then explain in the readme how someone else can get it working. 
 The minimum requirement in the assignment is "what did my class work on today". That can be in a list, in a graphic form, it can be as numbers or colors. You can compare it with last week or an average score. 
 Try to think about what is most important to a teacher in the classroom.
+
+## Run Application
+1. Download 'build' folder
+2. Run SnappetChallenge.Host.exe file from 'build' folder
