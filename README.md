@@ -25,3 +25,6 @@ Try to think about what is most important to a teacher in the classroom.
 ## Run Application
 1. Download 'build' folder
 2. Run SnappetChallenge.Host.exe file from 'build' folder
+
+
+Have fun
